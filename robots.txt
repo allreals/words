@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ca-math.github.io/words/sitemap.xml
